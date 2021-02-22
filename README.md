@@ -4,3 +4,13 @@ Nowadays, many projects are developed and implemented in the field of Internet o
 # Circuit Setup
 
 ![circuitSetup](https://user-images.githubusercontent.com/28812496/108746485-6f968880-754d-11eb-87c1-9dd951bf1d4c.png)
+
+# Results
+
+# Mobile
+
+![mobil](https://user-images.githubusercontent.com/28812496/108747721-d4061780-754e-11eb-8614-cefb85cc0596.jpg)
+
+# Web
+
+![web](https://user-images.githubusercontent.com/28812496/108747769-e08a7000-754e-11eb-9934-04e21bd0d676.jpg)
