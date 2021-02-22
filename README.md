@@ -3,4 +3,4 @@ Nowadays, many projects are developed and implemented in the field of Internet o
 
 # Circuit Setup
 
-![alt text](C:\Kullanıcılar\HARUN\Masaüstü\circuitSetup.png)
+![alt text](![circuitSetup](https://user-images.githubusercontent.com/28812496/108746485-6f968880-754d-11eb-87c1-9dd951bf1d4c.png))
