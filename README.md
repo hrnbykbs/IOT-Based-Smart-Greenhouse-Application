@@ -23,12 +23,12 @@ B. Required Components: Software <br>
 2- Accessible Wifi <br>
 
 # Circuit Setup
-![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/SmartGreenhouseApplication/circuitSetupSmartGreenhouse.png?raw=true)
+![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/SmartGreenhouseApplication/circuitSetup.png?raw=true)
 
 # Results
 
 # Mobile
-![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/SmartGreenhouseApplication/mobil.png?raw=true)
+![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/SmartGreenhouseApplication/mobil.jpg?raw=true)
 
 # Web
-![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/SmartGreenhouseApplication/web.png?raw=true)
+![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/SmartGreenhouseApplication/web.jpg?raw=true)
