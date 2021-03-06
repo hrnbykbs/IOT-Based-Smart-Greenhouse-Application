@@ -27,8 +27,8 @@ B. Required Components: Software <br>
 
 # Results
 
-# Mobile
+# A- Mobile
 ![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/IOTBasedSmartGreenhouseApplication/mobil.jpg?raw=true)
 
-# Web
+# B- Web
 ![alt text](https://github.com/hrnbykbs/AllPictures/blob/main/IOTBasedSmartGreenhouseApplication/web.jpg?raw=true)
